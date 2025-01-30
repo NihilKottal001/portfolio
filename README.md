@@ -96,6 +96,7 @@ In the project I utilized advanced NLP techniques to enhance the accessibility o
 This initiative not only simplified the comprehension of mutual fund documents for stakeholders but also facilitated better investment decision-making through comparative and predictive analytics. The outcome was a significant enhancement in document accessibility and investor insight, providing a basis for cost transparency and competitive benchmarking for fund managers. The project underscores my ability to apply complex data analysis techniques to real-world financial contexts, contributing to more transparent and informed financial environments.
 
 ### 4) Nextbuys, An E-Commerce Product recommendation System 
+
 [Website Link](http://nextbuys.co/Login)
 
 In This project we developed a dynamic recommendation engine website designed to enhance online shopping experiences by providing personalized product suggestions. Leveraging the FP-Growth and Cosine Similarity algorithms, the engine efficiently generates two types of recommendations: "Frequently Bought Together" and "Similar Item Recommendations." The engine was built on a robust dataset from the Harvard Dataverse, curated by the Stanford Network Analysis Project, featuring metadata on Amazon products and user transaction data.
