@@ -1,10 +1,11 @@
 # Data Scientist
+[LinkedIn](https://www.linkedin.com/in/nihil-kottal/) | EmailID: nihilkottal@gamil.com
 
-#### Technical Skills: Python, R, SQL, Alteryx, Azure, Excel, Power BI, Microsoft Fabric, PyTorch, PySpark, Tensorflow
+#### Technical Skills: Python, R, SQL, Alteryx, Azure, Excel, Power BI, Microsoft Fabric, PyTorch, PySpark, Tensorflow, AutoIT, NLP, LLM's
 
 ## Education
-- MSc., Data Science | Rutger University - Camden (_2025_)
-- B.S., Mech Eng     | Visveswaraya Technological University (_2017_)
+- MSc, Data Science | Rutger University - Camden (_2025_)
+- B.S, Mech Eng     | Visveswaraya Technological University (_2017_)
   
 ## Work Experience
 **Data Analyst @ Rutgers University (_Jun'24 - Present_)**
@@ -88,7 +89,7 @@ This dashboard recommends the users what job roles best suits them based on thei
 This dashboard provide the users an overview as to what ROI will be for each degree based on which the user can decide on their future education.
 
 ### 3) Textual Analysis of Mutual Fund Prospectus Report and Prediction of Expense Ratio
-[Link to PDF](https://github.com/NihilKottal001/portfolio/blob/6216e9edd8393f2167227b51b963f80a8b3b6f12/Assets/Puthiya_kottal_FinalProject%20Report.pdf)
+[Link to the Final PDF Report](https://github.com/NihilKottal001/portfolio/blob/6216e9edd8393f2167227b51b963f80a8b3b6f12/Assets/Puthiya_kottal_FinalProject%20Report.pdf)
 
 In the project I utilized advanced NLP techniques to enhance the accessibility of complex mutual fund documents and predict expense ratios effectively. The project involved collecting and analyzing 60 Scheme Information Documents and Statements of Additional Information from prominent mutual funds like IDBI, ICICI, and TATA using Python and libraries such as PyPDF2, Sklearn, and NLTK. I implemented readability assessments using the FOG index, semantic analysis with the Loughran-McDonald dictionary, and summarizations through the ChatGPT API. Additionally, cosine similarity was applied to identify mutual funds with similar characteristics, and a predictive model was developed using ridge regression to forecast expense ratios, integrating TF-IDF vectorization for textual features.
 
