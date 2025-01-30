@@ -70,7 +70,7 @@ This dashboard provides the user a list of all available scholarships in the US.
 - **University Reviews Analysis**
 
 ![Edumetric Solutions](/Assets/Photo 3.PNG)
-This dashboard provides the user a brief overview of the experiences of current students/Alumni's of each universities. It shows the Positive and Negative attribute of each university as reported by the students/Alumni.
+This dashboard provides the user a brief overview of the experiences of current student's/alumni of each universities. It shows the Positive and Negative attribute of each university as reported by the student's/alumni.
 
 - **University Information**
 
@@ -86,5 +86,12 @@ This dashboard recommends the users what job roles best suits them based on thei
 
 ![Edumetric Solutions](/Assets/Photo 6.PNG)
 This dashboard provide the users an overview as to what ROI will be for each degree based on which the user can decide on their future education.
+
+### 3) Textual Analysis of Mutual Fund Prospectus Report and Prediction of Expense Ratio
+[Link to PDF](https://github.com/NihilKottal001/portfolio/blob/6216e9edd8393f2167227b51b963f80a8b3b6f12/Assets/Puthiya_kottal_FinalProject%20Report.pdf)
+
+In the project I utilized advanced NLP techniques to enhance the accessibility of complex mutual fund documents and predict expense ratios effectively. The project involved collecting and analyzing 60 Scheme Information Documents and Statements of Additional Information from prominent mutual funds like IDBI, ICICI, and TATA using Python and libraries such as PyPDF2, Sklearn, and NLTK. I implemented readability assessments using the FOG index, semantic analysis with the Loughran-McDonald dictionary, and summarizations through the ChatGPT API. Additionally, cosine similarity was applied to identify mutual funds with similar characteristics, and a predictive model was developed using ridge regression to forecast expense ratios, integrating TF-IDF vectorization for textual features.
+
+This initiative not only simplified the comprehension of mutual fund documents for stakeholders but also facilitated better investment decision-making through comparative and predictive analytics. The outcome was a significant enhancement in document accessibility and investor insight, providing a basis for cost transparency and competitive benchmarking for fund managers. The project underscores my ability to apply complex data analysis techniques to real-world financial contexts, contributing to more transparent and informed financial environments.
 
 
