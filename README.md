@@ -37,4 +37,13 @@ implementing corrective measures, saving $200,000 annually
 - Implemented a re-engagement strategy for 1,500 former Mashreq Gold customers, boosting the customer base by 15% 
 - Applied SQL queries to analyze employee performance metrics, optimizing client allocation and boosting engagement by 10% 
 - Monitored and assessed the effectiveness of ongoing marketing campaigns, leading to a 20% reduction in marketing spend
+
+## Projects
+### Route Optimization - Precision Delivery Routes
+
+![Optimized & Clustered Routes](/Assets/Route Optimization.PNG)
+
+ The aim of the project was to streamline delivery routes for a network of retail outlets by leveraging their geographical coordinates to reduce travel time and cost. i used a blend of R Programming and powerful libraries like Leaflet for mapping and the TSP package for route optimization. 
+
+
   
