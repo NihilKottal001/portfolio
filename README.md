@@ -1,5 +1,5 @@
 # Data Scientist
-[LinkedIn](https://www.linkedin.com/in/nihil-kottal/) | EmailID: nihilkottal@gamil.com
+[LinkedIn](https://www.linkedin.com/in/nihil-kottal/) | EmailID: nihilkottal@gmail.com
 
 #### Technical Skills: Python, R, SQL, Alteryx, Azure, Excel, Power BI, Microsoft Fabric, PyTorch, PySpark, Tensorflow, AutoIT, NLP, LLM's
 
