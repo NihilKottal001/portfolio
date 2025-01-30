@@ -4,7 +4,7 @@
 
 ## Education
 - MSc., Data Science | Rutger University - Camden (_2025_)
-- B.S., Mechanical Eng | Visveswaraya Technological University (_2017_)
+- B.S., Mech Eng | Visveswaraya Technological University (_2017_)
   
 ## Work Experience
 **Data Analyst @ Rutgers University (_Jun'24 - Present_)**
