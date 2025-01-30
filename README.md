@@ -44,7 +44,7 @@ implementing corrective measures, saving $200,000 annually
 
 ![Optimized & Clustered Routes](/Assets/Route Optimization.PNG)
 
-The aim of the project was to streamline delivery routes for a network of retail outlets by leveraging their geographical coordinates to reduce travel time and cost. i used a blend of R Programming and powerful libraries like Leaflet for mapping and the TSP package for route optimization. 
+The aim of the project was to streamline delivery routes for a network of retail outlets by leveraging their geographical coordinates to reduce travel time and cost. I used a blend of R Programming and powerful libraries like Leaflet for mapping and the TSP package for route optimization. 
 
 ### 2) EduMetric Solutions
 
@@ -94,5 +94,21 @@ This dashboard provide the users an overview as to what ROI will be for each deg
 In the project I utilized advanced NLP techniques to enhance the accessibility of complex mutual fund documents and predict expense ratios effectively. The project involved collecting and analyzing 60 Scheme Information Documents and Statements of Additional Information from prominent mutual funds like IDBI, ICICI, and TATA using Python and libraries such as PyPDF2, Sklearn, and NLTK. I implemented readability assessments using the FOG index, semantic analysis with the Loughran-McDonald dictionary, and summarizations through the ChatGPT API. Additionally, cosine similarity was applied to identify mutual funds with similar characteristics, and a predictive model was developed using ridge regression to forecast expense ratios, integrating TF-IDF vectorization for textual features.
 
 This initiative not only simplified the comprehension of mutual fund documents for stakeholders but also facilitated better investment decision-making through comparative and predictive analytics. The outcome was a significant enhancement in document accessibility and investor insight, providing a basis for cost transparency and competitive benchmarking for fund managers. The project underscores my ability to apply complex data analysis techniques to real-world financial contexts, contributing to more transparent and informed financial environments.
+
+### 4) Nextbuys, An E-Commerce Product recommendation System [Website Link] (http://nextbuys.co/Login)
+
+In This project we developed a dynamic recommendation engine website designed to enhance online shopping experiences by providing personalized product suggestions. Leveraging the FP-Growth and Cosine Similarity algorithms, the engine efficiently generates two types of recommendations: "Frequently Bought Together" and "Similar Item Recommendations." The engine was built on a robust dataset from the Harvard Dataverse, curated by the Stanford Network Analysis Project, featuring metadata on Amazon products and user transaction data.
+
+**Technical Implementation:**
+
+-  FP-Growth Algorithm: Used to identify frequent itemsets from user transaction data, facilitating the generation of association rules for products frequently bought together. This included constructing an FP-tree from a transaction-product matrix, with rules evaluated on metrics like support, confidence, and lift.
+-  Cosine Similarity: Applied to determine the similarity between products based on their vectorized titles using TF-IDF, enabling the recommendation of similar items within the same category.
+
+**Features and Functionality:**
+
+-  Dynamic Recommendations: Tailored recommendations based on real-time user interactions and feedback, ensuring relevance and enhancing user engagement.
+-  Interactive User Experience: Incorporated a feedback system that allows users to like or dislike recommendations, dynamically refining the recommendation algorithms.
+
+Outcome: The recommendation engine significantly improved the shopping experience by providing tailored product suggestions, thereby increasing user engagement and potential sales conversions. It showcased the ability to handle large datasets and implement complex algorithms to derive meaningful insights and recommendations in real-time.
 
 
