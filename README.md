@@ -95,7 +95,8 @@ In the project I utilized advanced NLP techniques to enhance the accessibility o
 
 This initiative not only simplified the comprehension of mutual fund documents for stakeholders but also facilitated better investment decision-making through comparative and predictive analytics. The outcome was a significant enhancement in document accessibility and investor insight, providing a basis for cost transparency and competitive benchmarking for fund managers. The project underscores my ability to apply complex data analysis techniques to real-world financial contexts, contributing to more transparent and informed financial environments.
 
-### 4) Nextbuys, An E-Commerce Product recommendation System [Website Link] (http://nextbuys.co/Login)
+### 4) Nextbuys, An E-Commerce Product recommendation System 
+[Website Link] (http://nextbuys.co/Login)
 
 In This project we developed a dynamic recommendation engine website designed to enhance online shopping experiences by providing personalized product suggestions. Leveraging the FP-Growth and Cosine Similarity algorithms, the engine efficiently generates two types of recommendations: "Frequently Bought Together" and "Similar Item Recommendations." The engine was built on a robust dataset from the Harvard Dataverse, curated by the Stanford Network Analysis Project, featuring metadata on Amazon products and user transaction data.
 
@@ -110,5 +111,25 @@ In This project we developed a dynamic recommendation engine website designed to
 -  Interactive User Experience: Incorporated a feedback system that allows users to like or dislike recommendations, dynamically refining the recommendation algorithms.
 
 Outcome: The recommendation engine significantly improved the shopping experience by providing tailored product suggestions, thereby increasing user engagement and potential sales conversions. It showcased the ability to handle large datasets and implement complex algorithms to derive meaningful insights and recommendations in real-time.
+
+### 5) RobustML, Enhancing Vehicle Damage Detection Against Adversarial Attacks 
+
+This project investigates the vulnerability of machine learning models, specifically those used in the insurance sector for assessing vehicle damage via image analysis, to adversarial attacks. The objective was to demonstrate how these attacks could skew damage assessments, impacting the accuracy and reliability of insurance claims processing. This analysis is pivotal for devising strategies to bolster the defenses of such systems against malicious manipulations.
+
+Technical Approach:
+
+-  Model Training: Employed a Convolutional Neural Network (CNN), trained on a balanced dataset of car damage images from Kaggle, enhanced with data augmentation techniques such as random flips and rotations to mimic real-world variations.
+-  Adversarial Training: Integrated the Fast Gradient Sign Method (FGSM) to generate adversarial examples during training, preparing the model to identify and classify distorted inputs effectively.
+-  Evaluation: Assessed the model's performance on both pristine and adversarially altered datasets under various conditions to evaluate its accuracy and robustness.
+
+Results:
+
+-  Base Model Accuracy: 77.51% (no attacks or defenses)
+-  Under Attack 1: Accuracy dropped to 16.87% without defenses
+-  Under Attack 2: Accuracy decreased to 39.34% without defenses
+-  Defensive Technique 1: Improved accuracy to 83.6% against Attack 1
+-  Defensive Technique 2: Enhanced accuracy to 67.21% against Attack 2
+
+![Robust ML_Explainability](/Assets/Robust ML 1.PNG)  ![Robust ML_Explainability](/Assets/Robust ML 2.PNG)
 
 
