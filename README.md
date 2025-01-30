@@ -41,18 +41,36 @@ implementing corrective measures, saving $200,000 annually
 ## Projects
 ### Route Optimization - Precision Delivery Routes
 
-![Edumetric Solutions](/Assets/Photo 1.PNG)
-![Edumetric Solutions](/Assets/Photo 2.PNG)
-![Edumetric Solutions](/Assets/Photo 3.PNG)
-![Edumetric Solutions](/Assets/Photo 4.PNG)
-![Edumetric Solutions](/Assets/Photo 5.PNG)
-![Edumetric Solutions](/Assets/Photo 6.PNG)
+![Optimized & Clustered Routes](/Assets/Route Optimization.PNG)
 
- The aim of the project was to streamline delivery routes for a network of retail outlets by leveraging their geographical coordinates to reduce travel time and cost. i used a blend of R Programming and powerful libraries like Leaflet for mapping and the TSP package for route optimization. 
+The aim of the project was to streamline delivery routes for a network of retail outlets by leveraging their geographical coordinates to reduce travel time and cost. i used a blend of R Programming and powerful libraries like Leaflet for mapping and the TSP package for route optimization. 
 
 ### EduMetric Solutions
+- Financial & Loan Information:
+![Edumetric Solutions](/Assets/Photo 1.PNG)
+This dashboard provides the user all the inforamtion needed to understand the cost of attending college and also provides the information on amount of loan requried to attend Public, Private (Non-Profit) & Private (For-Profit) institutions.
 
-![Optimized & Clustered Routes](/Assets/Route Optimization.PNG)
+- Scholarship Details
+![Edumetric Solutions](/Assets/Photo 2.PNG)
+
+This dashboard provides the user a list of all available scholarships in the US. Ranging from High School all the way upto Post Graduate Degrees. 
+
+- University Reviews Analysis
+![Edumetric Solutions](/Assets/Photo 3.PNG)
+
+This dashboard provides the user a brief overview of the experiences of current students/Alumni's of each universities. It shows the Positive and Negative attribute of each university as reported by the students/Alumni.
+
+- University Information
+![Edumetric Solutions](/Assets/Photo 4.PNG)
+This dashboard provides the users the contact and geographical details of all the universities listed in the United States.
+ 
+- Carrer Role Recommendation
+![Edumetric Solutions](/Assets/Photo 5.PNG)
+This dashboard recommends the users what job roles best suits them based on their likes, interests, skill level, salary expectation and Job trend in the next 10 years.
+
+- Graduate Degree ROI Analysis
+![Edumetric Solutions](/Assets/Photo 6.PNG)
+This dashboard provide the users an overview as to what ROI will be for each degree based on which the user can decide on their future education.
 
 EduMetric Solutions, is designed to convert raw educational data into strategic insights. This advancement in educational data analytics merges extensive data sources with advanced analytical methods.
 Technical Highlights:
