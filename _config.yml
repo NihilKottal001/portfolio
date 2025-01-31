@@ -1,10 +1,12 @@
 title: Nihil Kottal
 logo: /Assets/Headshot.jpg
 description: >
-  I am deeply passionate about data science, especially in the realms of E-Commerce and Fraud Analytics. 
-  My curiosity drives me to embrace challenges, using my analytical skills and science background 
-  to innovate and solve problems from multiple perspectives. 
-  Area of Expertise: Machine Learning, Data Analysis, Predictive Modeling.
+  I am deeply passionate about data science, especially in the realms of E-Commerce and Fraud Analytics.
+  My curiosity drives me to embrace challenges, using my analytical skills and science background to innovate and solve problems from multiple perspectives.
+Area_of_Expertise:
+  - Machine Learning
+  - Data Analysis
+  - Predictive Modeling
 
 show_downloads: False
 theme: jekyll-theme-Minimal
