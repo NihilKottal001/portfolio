@@ -5,7 +5,13 @@
 ## Education
 - MSc, Data Science | Rutger University - Camden (_2025_)
 - B.S, Mech Eng     | Visveswaraya Technological University (_2017_)
-  
+
+## Area of Expertise
+- **AI & Machine Learning**: Proficient in Neural Networks, Reinforcement Learning, and LLM Fine-Tuning.
+- **Cloud Architecture & MLOps**: Experienced with Microsoft Fabric, Microsoft Azure, and Git.
+- **Programming**: Skilled in Python, R, SQL, Alteryx, PyTorch, Pandas, Numpy, and Scikit-Learn.
+- **Data Science**: Expert in Predictive Modeling, Clustering, Statistical Modeling, Time Series Forecasting, and Feature Engineering.
+
 ## Work Experience
 **Data Analyst @ Rutgers University (_Jun'24 - Present_)**
 - Analyzed housing data for 500+ students annually, optimizing dorm allocations and boosting student satisfaction by 15%
@@ -132,10 +138,5 @@ Results:
 
 ![Robust ML_Explainability](/Assets/Robust ML 1.PNG)  ![Robust ML_Explainability](/Assets/Robust ML 2.PNG)
 
-## Area of Expertise
-- **AI & Machine Learning**: Proficient in Neural Networks, Reinforcement Learning, and LLM Fine-Tuning.
-- **Cloud Architecture & MLOps**: Experienced with Microsoft Fabric, Microsoft Azure, and Git.
-- **Programming**: Skilled in Python, R, SQL, Alteryx, PyTorch, Pandas, Numpy, and Scikit-Learn.
-- **Data Science**: Expert in Predictive Modeling, Clustering, Statistical Modeling, Time Series Forecasting, and Feature Engineering.
   
 [Thank You, Scroll to Top](#top)
