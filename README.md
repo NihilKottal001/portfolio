@@ -1,4 +1,5 @@
 <a name="top"></a>
+<div style="background-color: #B0E0E6;"> 
 # Data Scientist
 [LinkedIn](https://www.linkedin.com/in/nihil-kottal/) | [EmailID](mailto:nihilkottal@gmail.com)
 
@@ -140,3 +141,4 @@ Results:
 
   
 [Thank You, Scroll to Top](#top)
+</div>
