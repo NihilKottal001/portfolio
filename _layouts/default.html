@@ -36,6 +36,14 @@
       <section>
 
       {{ content }}
+      <div class="expertise">
+          <h2>Area of Expertise</h2>
+          <ul>
+            {% for area in site.Area_of_Expertise %}
+              <li>{{ area }}</li>
+            {% endfor %}
+          </ul>
+        </div>
 
       </section>
       <footer>
