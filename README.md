@@ -1,7 +1,6 @@
+<a name="top"></a>
 # Data Scientist
-[LinkedIn](https://www.linkedin.com/in/nihil-kottal/) | EmailID: nihilkottal@gmail.com
-
-#### Technical Skills: Python, R, SQL, Alteryx, Azure, Excel, Power BI, Microsoft Fabric, PyTorch, PySpark, Tensorflow, AutoIT, NLP, LLM's
+[LinkedIn](https://www.linkedin.com/in/nihil-kottal/) | [EmailID](mailto:nihilkottal@gmail.com)
 
 ## Education
 - MSc, Data Science | Rutger University - Camden (_2025_)
@@ -61,32 +60,32 @@ Impact: EduMetric Solutions simplifies complex data, enabling informed decisions
 - **Financial & Loan Information:**
 
 ![Edumetric Solutions](/Assets/Photo 1.PNG)
-This dashboard provides the user all the inforamtion needed to understand the cost of attending college and also provides the information on amount of loan requried to attend Public, Private (Non-Profit) & Private (For-Profit) institutions.
+This dashboard delivers all the necessary information to comprehend the costs associated with attending college. It also provides details on the amount of loans required for attending public, private non-profit, and private for-profit institutions
 
 - **Scholarship Details**
 
 ![Edumetric Solutions](/Assets/Photo 2.PNG)
-This dashboard provides the user a list of all available scholarships in the US. Ranging from High School all the way upto Post Graduate Degrees. 
+This dashboard offers users a comprehensive list of available scholarships in the US, covering educational levels from high school through to postgraduate degrees. 
 
 - **University Reviews Analysis**
 
 ![Edumetric Solutions](/Assets/Photo 3.PNG)
-This dashboard provides the user a brief overview of the experiences of current student's/alumni of each universities. It shows the Positive and Negative attribute of each university as reported by the student's/alumni.
+This dashboard offers a concise summary of the experiences reported by current students and alumni from various universities. It highlights the positive and negative aspects of each university as described by the students and alumni.
 
 - **University Information**
 
 ![Edumetric Solutions](/Assets/Photo 4.PNG)
-This dashboard provides the users the contact and geographical details of all the universities listed in the United States.
+This dashboard presents users with the contact information and geographical details for all universities listed in the United States.
  
 - **Career Role Recommendation**
 
 ![Edumetric Solutions](/Assets/Photo 5.PNG)
-This dashboard recommends the users what job roles best suits them based on their likes, interests, skill level, salary expectation and Job trend in the next 10 years.
+This dashboard suggests job roles that best suit users based on their preferences, interests, skill levels, salary expectations, and projected job trends over the next decade.
 
 - **Graduate Degree ROI Analysis**
 
 ![Edumetric Solutions](/Assets/Photo 6.PNG)
-This dashboard provide the users an overview as to what ROI will be for each degree based on which the user can decide on their future education.
+This dashboard gives users an overview of the expected return on investment (ROI) for each degree, helping them make informed decisions about their future education.
 
 ### 3) Textual Analysis of Mutual Fund Prospectus Report and Prediction of Expense Ratio
 [Link to the Final PDF Report](https://github.com/NihilKottal001/portfolio/blob/6216e9edd8393f2167227b51b963f80a8b3b6f12/Assets/Puthiya_kottal_FinalProject%20Report.pdf)
@@ -133,4 +132,10 @@ Results:
 
 ![Robust ML_Explainability](/Assets/Robust ML 1.PNG)  ![Robust ML_Explainability](/Assets/Robust ML 2.PNG)
 
-
+## Area of Expertise
+- **AI & Machine Learning**: Proficient in Neural Networks, Reinforcement Learning, and LLM Fine-Tuning.
+- **Cloud Architecture & MLOps**: Experienced with Microsoft Fabric, Microsoft Azure, and Git.
+- **Programming**: Skilled in Python, R, SQL, Alteryx, PyTorch, Pandas, Numpy, and Scikit-Learn.
+- **Data Science**: Expert in Predictive Modeling, Clustering, Statistical Modeling, Time Series Forecasting, and Feature Engineering.
+  
+[Thank You, Scroll to Top](#top)
