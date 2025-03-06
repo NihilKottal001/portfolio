@@ -13,7 +13,7 @@
 - **Data Science**: Expert in Predictive Modeling, Clustering, Statistical Modeling, Time Series Forecasting, and Feature Engineering.
 
 ## Professional Experience
-**Data Analyst @ Rutgers University (_Jun'24 - Present_)**
+**Data Analyst @ Rutgers University (_Jun'24 - Present_)** <br>
 *Industry: Education*
 
 - Analyzed housing data for 500+ students annually, optimizing dorm allocations and boosting student satisfaction by 15%
@@ -21,7 +21,7 @@
 performance and activities, resulting in a 10% increase in engagement between RA’s and residents
 - Utilized sentiment analysis and topic modelling to analyze survey feedback on RA’s performance to uncover underlying sentiments and thematic concerns. The insights gained were used in developing RA training programs. 
 
-**Senior Data Analyst @ DAT Freight & Analytics (_Jan'22 - Jun'23_)**
+**Senior Data Analyst @ DAT Freight & Analytics (_Jan'22 - Jun'23_)** <br>
 *Industry: SaaS, Supply Chain, Logistics*
 
 - Executed and fine-tuned monthly regression models, analyzing over a million data points to forecast market prices for 
@@ -34,7 +34,7 @@ to drive product innovation and monthly user activity by 30%
 onboarding and enhanced productivity
 - Automated data quality checks and anomaly detection processes, reducing manual effort by 50% and improving data reliability
 
-**Associate Data Analyst @ Guru & Jana (_Dec'18 - jan'22_)**
+**Associate Data Analyst @ Guru & Jana (_Dec'18 - jan'22_)** <br>
 *Industry: E-Commerce, Finance | clients: Big Basket, ID Fresh*
 
 - Designed and executed a statistical model utilizing the Travelling Salesman Algorithm and K-means clustering for logistical 
@@ -46,7 +46,7 @@ algorithm, bolstering organizational efficiency and security
 - Spearheaded the forensic analysis of an E-commerce client’s cashback credit mechanism, uncovering critical inefficiencies and 
 implementing corrective measures, saving $200,000 annually
 
-**Data Analyst Intern @ Mashreq Bank (_Mar'18 - Jun'18_)**
+**Data Analyst Intern @ Mashreq Bank (_Mar'18 - Jun'18_)** <br>
 *Industry: Banking*
 
 - Implemented a re-engagement strategy for 1,500 former Mashreq Gold customers, boosting the customer base by 15% 
