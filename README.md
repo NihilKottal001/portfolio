@@ -14,7 +14,7 @@
 
 ## Professional Experience
 **Data Analyst @ Rutgers University (_Jun'24 - Present_)**
-**(_Industry: Education_)**
+  **(_Industry: Education_)**
 
 - Analyzed housing data for 500+ students annually, optimizing dorm allocations and boosting student satisfaction by 15%
 - Conducted a comprehensive study on the correlation between university housing arrangements and student academic 
@@ -22,7 +22,7 @@ performance and activities, resulting in a 10% increase in engagement between RA
 - Utilized sentiment analysis and topic modelling to analyze survey feedback on RA’s performance to uncover underlying sentiments and thematic concerns. The insights gained were used in developing RA training programs. 
 
 **Senior Data Analyst @ DAT Freight & Analytics (_Jan'22 - Jun'23_)**
-**(_Industry: SaaS, Supply Chain, Logistics_)**
+  **(_Industry: SaaS, Supply Chain, Logistics_)**
 
 - Executed and fine-tuned monthly regression models, analyzing over a million data points to forecast market prices for 
 truckload shipments with a predictive accuracy improvement of 15%
@@ -35,7 +35,7 @@ onboarding and enhanced productivity
 - Automated data quality checks and anomaly detection processes, reducing manual effort by 50% and improving data reliability
 
 **Associate Data Analyst @ Guru & Jana (_Dec'18 - jan'22_)**
-**(_Industry: E-Commerece, Finance | clients: Big Basket, ID Fresh_)**
+  **(_Industry: E-Commerece, Finance | clients: Big Basket, ID Fresh_)**
 
 - Designed and executed a statistical model utilizing the Travelling Salesman Algorithm and K-means clustering for logistical 
 route optimization, resulting in a 21% increase in fleet performance within the client’s transportation division
@@ -47,6 +47,8 @@ algorithm, bolstering organizational efficiency and security
 implementing corrective measures, saving $200,000 annually
 
 **Data Analyst Intern @ Mashreq Bank (_Mar'18 - Jun'18_)**
+/n**(_Industry: Banking_)**
+
 - Implemented a re-engagement strategy for 1,500 former Mashreq Gold customers, boosting the customer base by 15% 
 - Applied SQL queries to analyze employee performance metrics, optimizing client allocation and boosting engagement by 10% 
 - Monitored and assessed the effectiveness of ongoing marketing campaigns, leading to a 20% reduction in marketing spend
