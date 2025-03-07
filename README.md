@@ -35,7 +35,7 @@ onboarding and enhanced productivity
 - Automated data quality checks and anomaly detection processes, reducing manual effort by 50% and improving data reliability
 
 **Associate Data Analyst @ Guru & Jana (_Dec'18 - jan'22_)** <br>
-*Industry: E-Commerce, Finance | clients: Big Basket, ID Fresh*
+*Industry: E-Commerce, Finance | Clients: Big Basket, ID Fresh*
 
 - Designed and executed a statistical model utilizing the Travelling Salesman Algorithm and K-means clustering for logistical 
 route optimization, resulting in a 21% increase in fleet performance within the client’s transportation division
