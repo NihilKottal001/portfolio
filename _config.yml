@@ -4,15 +4,16 @@ description: >
   I am deeply passionate about data science, especially in the realms of E-Commerce and Fraud Analytics.
   My curiosity drives me to embrace challenges, using my analytical skills and science background to innovate and solve problems from multiple perspectives.<br><br>
 
-  | Skill           | Proficiency |<br>
-  |-----------------|-------------|<br>
-  | Python          | ******      |<br>
-  | R Programming   | *****       |<br>
-  | SQL             | ******      |<br>
-  | Alteryx         | *****       |<br>
-  | Power BI        | *****       |<br>
-  | Advanced Excel  | ******      |<br>
-  | Microsoft Azure | ***         |<br>
+  | Skill           | Proficiency |
+  |-----------------|-------------|
+  | Python          | ******      |
+  | R Programming   | *****       |
+  | SQL             | ******      |
+  | Alteryx         | *****       |
+  | Power BI        | *****       |
+  | Advanced Excel  | ******      |
+  | Microsoft Azure | ***         |
   | NLP             | *****       |
+
 show_downloads: False
 theme: jekyll-theme-Minimal
