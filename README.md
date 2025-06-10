@@ -62,9 +62,9 @@ implementing corrective measures, saving $200,000 annually
 
 This project develops and tests a dynamic pricing framework grounded in the m-price-change (mPC) policy (Cheung et al., 2017), which enforces limited experimentation while ensuring demand learning. Products were clustered using KMeans based on historical sales features, followed by demand curve estimation via Ridge Regression and ARIMAX models. The pricing strategy was tested over two full cycles of Learning (14 days) and Earning (7 days) phases.
 
-The system dynamically updates prices within a 70%–105% price band, selecting the closest-fitting demand function per day to recalibrate prices. Key metrics include regret minimization and revenue optimization. Experimental results confirm the algorithm's capability to approximate optimal pricing with constrained learning, highlighting its operational viability.
-
 ![DynamicPricing](/Assets/Top Products.PNG)
+
+The system dynamically updates prices within a 70%–105% price band, selecting the closest-fitting demand function per day to recalibrate prices. Key metrics include regret minimization and revenue optimization. Experimental results confirm the algorithm's capability to approximate optimal pricing with constrained learning, highlighting its operational viability.
 
 ### 2) Route Optimization - Precision Delivery Routes
 
