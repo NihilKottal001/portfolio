@@ -11,6 +11,7 @@
 - **Cloud Architecture & MLOps**: Experienced with Microsoft Fabric, Microsoft Azure, and Git.
 - **Programming**: Skilled in Python, R, SQL, Alteryx, PyTorch, Pandas, Numpy, and Scikit-Learn.
 - **Data Science**: Expert in Predictive Modeling, Clustering, Statistical Modeling, Time Series Forecasting, and Feature Engineering.
+- **Data Visualization**: Expert in PowerBI, Tableau, Matplotlib, Seaborn, Explainability with LIME and SHAP.
 
 ## Professional Experience
 **Data Analyst @ Rutgers University (_Jun'24 - Present_)** <br>
@@ -54,13 +55,22 @@ implementing corrective measures, saving $200,000 annually
 - Monitored and assessed the effectiveness of ongoing marketing campaigns, leading to a 20% reduction in marketing spend
 
 ## Projects
-### 1) Route Optimization - Precision Delivery Routes
+### 1) Dynamic Pricing - Optimized Pricing Using Multi-Armed Bandit Theory
+
+![Optimized & Clustered Routes](/Assets/Route Optimization.PNG)
+
+This project develops and tests a dynamic pricing framework grounded in the m-price-change (mPC) policy (Cheung et al., 2017), which enforces limited experimentation while ensuring demand learning. Products were clustered using KMeans based on historical sales features, followed by demand curve estimation via Ridge Regression and ARIMAX models. The pricing strategy was tested over two full cycles of Learning (14 days) and Earning (7 days) phases.
+
+The system dynamically updates prices within a 70%–105% price band, selecting the closest-fitting demand function per day to recalibrate prices. Key metrics include regret minimization and revenue optimization. Experimental results confirm the algorithm's capability to approximate optimal pricing with constrained learning, highlighting its operational viability.
+
+
+### 2) Route Optimization - Precision Delivery Routes
 
 ![Optimized & Clustered Routes](/Assets/Route Optimization.PNG)
 
 The aim of the project was to streamline delivery routes for a network of retail outlets by leveraging their geographical coordinates to reduce travel time and cost. I used a blend of R Programming and powerful libraries like Leaflet for mapping and the TSP package for route optimization. 
 
-### 2) EduMetric Solutions
+### 3) EduMetric Solutions
 
 EduMetric Solutions, is designed to convert raw educational data into strategic insights. This advancement in educational data analytics merges extensive data sources with advanced analytical methods.
 
@@ -102,7 +112,7 @@ This dashboard suggests job roles that best suit users based on their preference
 ![Edumetric Solutions](/Assets/Photo 6.PNG)
 This dashboard gives users an overview of the expected return on investment (ROI) for each degree, helping them make informed decisions about their future education.
 
-### 3) Nextbuys, An E-Commerce Product recommendation System 
+### 4) Nextbuys, An E-Commerce Product recommendation System 
 
 [Website Link](http://nextbuys.co/Login)
 
@@ -120,14 +130,14 @@ In This project we developed a dynamic recommendation engine website designed to
 
 Outcome: The recommendation engine significantly improved the shopping experience by providing tailored product suggestions, thereby increasing user engagement and potential sales conversions. It showcased the ability to handle large datasets and implement complex algorithms to derive meaningful insights and recommendations in real-time.
 
-### 4) Textual Analysis of Mutual Fund Prospectus Report and Prediction of Expense Ratio
+### 5) Textual Analysis of Mutual Fund Prospectus Report and Prediction of Expense Ratio
 [Link to the Final PDF Report](https://github.com/NihilKottal001/portfolio/blob/6216e9edd8393f2167227b51b963f80a8b3b6f12/Assets/Puthiya_kottal_FinalProject%20Report.pdf)
 
 In the project I utilized advanced NLP techniques to enhance the accessibility of complex mutual fund documents and predict expense ratios effectively. The project involved collecting and analyzing 60 Scheme Information Documents and Statements of Additional Information from prominent mutual funds like IDBI, ICICI, and TATA using Python and libraries such as PyPDF2, Sklearn, and NLTK. I implemented readability assessments using the FOG index, semantic analysis with the Loughran-McDonald dictionary, and summarizations through the ChatGPT API. Additionally, cosine similarity was applied to identify mutual funds with similar characteristics, and a predictive model was developed using ridge regression to forecast expense ratios, integrating TF-IDF vectorization for textual features.
 
 This initiative not only simplified the comprehension of mutual fund documents for stakeholders but also facilitated better investment decision-making through comparative and predictive analytics. The outcome was a significant enhancement in document accessibility and investor insight, providing a basis for cost transparency and competitive benchmarking for fund managers. The project underscores my ability to apply complex data analysis techniques to real-world financial contexts, contributing to more transparent and informed financial environments.
 
-### 5) RobustML, Enhancing Vehicle Damage Detection Against Adversarial Attacks 
+### 6) RobustML, Enhancing Vehicle Damage Detection Against Adversarial Attacks 
 
 This project investigates the vulnerability of machine learning models, specifically those used in the insurance sector for assessing vehicle damage via image analysis, to adversarial attacks. The objective was to demonstrate how these attacks could skew damage assessments, impacting the accuracy and reliability of insurance claims processing. This analysis is pivotal for devising strategies to bolster the defenses of such systems against malicious manipulations.
 
