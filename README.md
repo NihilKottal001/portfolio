@@ -59,7 +59,6 @@ implementing corrective measures, saving $200,000 annually
 
 ![DynamicPricing](/Assets/Dynamic Pricing FlowChart.PNG)
 
-
 This project develops and tests a dynamic pricing framework grounded in the m-price-change (mPC) policy (Cheung et al., 2017), which enforces limited experimentation while ensuring demand learning. Products were clustered using KMeans based on historical sales features, followed by demand curve estimation via Ridge Regression and ARIMAX models. The pricing strategy was tested over two full cycles of Learning (14 days) and Earning (7 days) phases.
 
 ![DynamicPricing](/Assets/Top Products.PNG)
